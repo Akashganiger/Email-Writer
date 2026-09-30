@@ -1,0 +1,15 @@
+node_modules/
+.sf/
+.idea/
+
+.env
+.env.*
+!.env.example
+
+dist/
+build/
+.next/
+.vite/
+
+.DS_Store
+*.log
